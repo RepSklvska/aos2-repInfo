@@ -3,7 +3,7 @@ A very simple tool for viewing information of AOS2 replay files without opening 
 
 <br>
 
-<a href="https://github.com/RepSklvska/aos2_repInfo/raw/master/aos2RepInfo.exe">Download link</a>
+<a href="https://github.com/RepSklvska/aos2_repInfo/releases/download/v0.1/aos2RepInfo.exe">Download link</a>
 
 <br>
 
