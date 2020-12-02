@@ -9,4 +9,6 @@ A very simple tool for viewing information of AOS2 replay files without opening 
 
 Usage:
 
-Drag *.rpl file to the executable file(aos2RepInfo.exe)'s icon.
+- Drag *.rpl file(or files) to aos2RepInfo.exe's icon.
+
+- Drag a directory(or directories) which contains *.rpl files to aos2RepInfo.exe's icon, then it would create a file in that directory named "list.txt", open that file for information.
