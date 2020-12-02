@@ -1,4 +1,4 @@
-# aos2_repInfo
+# AOS2 Replay Info Viewer
 A very simple tool for viewing information of AOS2 replay files without opening the game.
 
 <br>
